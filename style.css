@@ -9,4 +9,6 @@ p{
 }
 .contener{
     background-color: darkolivegreen;
+    display: flex;
+    justify-content: space-around;
 }
