@@ -2,9 +2,10 @@ body{
     background-color: darkkhaki;
 }
 p{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: blue;
+    font-size: 3em;
 }
 .contener{
     background-color: darkolivegreen;
